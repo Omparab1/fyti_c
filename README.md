@@ -1,2 +1,2 @@
 # fyti_c
-My first demo
+My first demo in lab
